@@ -17,4 +17,7 @@ I’m also a proud member of the National Honor Society (NSLS), dedicated to lea
 ![image](https://github.com/user-attachments/assets/f405d437-adaf-4316-9dbe-133cf26cac34)
 
 www.linkedin.com/in/charsie-booker-connect-now100
+
 https://codepen.io/CharsieB
+
+https://www.behance.net/charsiebooker
