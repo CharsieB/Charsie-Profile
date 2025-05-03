@@ -1,5 +1,13 @@
 # Charsie-Profile
 
+```
+{
+  "firstName": "Charsie",
+  "lastName": "Booker",
+  "age": 25
+}
+```
+
  Hi, welcome to my page! A passionate and creative digital enthusiast with a strong foundation in HTML, CSS coding, and digital marketing. 
 
 ![image](https://github.com/user-attachments/assets/4fa75bc5-4128-4076-abb9-1404cd9b00a7)
