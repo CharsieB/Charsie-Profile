@@ -1,12 +1,5 @@
 # Charsie-Profile
 
-```
-{
-  "firstName": "Charsie",
-  "lastName": "Booker",
-  "age": 25
-}
-```
 
  Hi, welcome to my page! A passionate and creative digital enthusiast with a strong foundation in HTML, CSS coding, and digital marketing. 
 
